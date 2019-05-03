@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: SwiftHEXColors,
+    name: "SwiftHEXColors",
     products: [
         .library(name: "SwiftHEXColors", targets: ["SwiftHEXColors"])
     ],
